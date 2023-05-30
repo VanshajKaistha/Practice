@@ -1,0 +1,5 @@
+Date: 30 May 2023 						Time: 11:09 AM
+
+This is a file to practice git add and git commit command.
+
+Hopefully able to end the git understanding.
